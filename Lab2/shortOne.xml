@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<songs>
+	<song artist = "The Clash" name = "Should I Stay Or Should I Go" genre = "Rock" duration = "3:09" format = "wav"/>
+	<song artist = "Stromae" name = "House'llelujah" genre = "Electronic" duration = "3:59" format = "mp3" bitrate = "160"/>
+	<song artist = "Scissor Sisters" name = "Invisible Light" genre = "Pop" duration = "6:14" format = "mp3" bitrate = "192"/>
+	<song artist = "Iggy Pop" name = "Lust For Life" genre = "Rock" duration = "5:14" format = "wav"/>
+	<song artist = "Claude Debussy" name = "Clair de Lune" genre = "Classic" duration = "5:03" format = "cda"/>
+	<song artist = "System Of a Down" name = "Soldier Side" genre = "Rock" duration = "3:40" format = "mp3" bitrate = "128"/>
+	<song artist = "Frank Zappa" name = "Bobby Brown Goes Down" genre = "Rock" duration = "2:49" format = "cda"/>
+	<song artist = "David Bowie" name = "Dead Man Walking" genre = "Electronic" duration = "7:26" format = "mp3" bitrate = "160"/>
+	<song artist = "David Bowie" name = "Time" genre = "Rock" duration = "5:15" format = "wav"/>
+	<song artist = "A-Ha" name = "Sumer Moved On" genre = "Pop" duration = "4:06" format = "mp3" bitrate = "128"/>
+</songs>

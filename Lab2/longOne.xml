@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<songs>
+	<song artist = "The Doors" name = "Riders On The Storm" genre = "Rock" duration = "7:14" format = "wav"/>
+	<song artist = "Pink Floyd" name = "Shine On You Crazy Diamond" genre = "Rock" duration = "13:36" format = "cda"/>
+	<song artist = "John Coltraine" name = "In a Sentimental Mood" genre = "Jazz" duration = "4:16" format = "cda"/>
+	<song artist = "David Bowie" name = "If I Dreaming All My Life" genre = "Rock" duration = "7:01" format = "wav"/>
+	<song artist = "John Coltraine" name = "Acknowledgement" genre = "Jazz" duration = "7:42" format = "wav"/>
+	<song artist = "Queen" name = "Bohemian Rhapsody" genre = "Rock" duration = "5:55" format = "cda"/>
+	<song artist = "Pink Floyd" name = "Comroftably numb" genre = "Rock" duration = "6:21" format = "wav"/>
+	<song artist = "Nick Cave and the Bad Seeds" name = "The Weeping Song" genre = "Rock" duration = "4:35" format = "cda"/>
+	<song artist = "Pink Floyd" name = "Echoes" genre = "Rock" duration = "23:31" format = "cda"/>
+</songs>                   
+

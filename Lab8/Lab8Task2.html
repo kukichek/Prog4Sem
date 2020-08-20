@@ -1,0 +1,167 @@
+<html>
+	<head>
+		<title> Открытка </title>
+		<style type="text/css">
+			body {
+				background-color: #2D0571;
+			}
+			.head_div_child {
+				display: inline-block;
+			}
+			.head_div {
+				height: 200;
+			}
+			.moon_img {
+				height: 200;
+				width: auto;
+			}
+			.new_year_text {
+				font: 80px Segoe Print;
+				color: #FFCF00;
+				vertical-align: top; 
+			}
+			#birthday_image_pos {
+				position: absolute;
+				top: 50px;
+				left: 300px;
+
+				height: 250px;
+				width: auto;
+			}
+			#fireworks_image_pos {
+				position: absolute;
+				top: 0px;
+				right: 0px;
+
+				width: 47%;
+			}
+			#happy_easter_pos {
+				position: absolute;
+				top: 300px;
+				right: 50px;
+
+				height: 300px;
+				width: auto;
+			}
+			#vdv_guys_pos {
+				position: absolute;
+				bottom: 80px;
+				right: 30px;
+
+				width: 40%;
+				opacity: 0.0;
+				transition: 0.5s;
+			}
+			#vdv_guys_pos:hover {
+				opacity: 1.0;
+			}
+			#easter_eggs_pos {
+				position: absolute;
+				bottom: 0px;
+				right: 0px;
+			}
+			#img_23_pos {
+				position: absolute;
+				left: 0px;
+				top: 180px;
+
+				width: 500px;
+				height: 200px;
+			}
+			#beer_pos {
+				position: absolute;
+				left: 455px;
+				top: 295px;
+			}
+			#victory_pos {
+				position: absolute;
+				left: 0px;
+				top: 320px;
+
+				height: 180px;
+			}
+			#valentine_text_div {
+				position: absolute;
+				left: 250px;
+				top: 375px;
+
+				font: 90px Monotype Corsiva;
+				color: red;
+
+				text-shadow: 0 0 50px #F7C9DD
+			}
+			#ukraine_text_div {
+				position: absolute;
+				left: 640px;
+				top: 375px;
+
+				font: 90px Calibri;
+				color: yellow;
+			}
+			#ukraine_pos {
+				position: absolute;
+				left: 500px;
+				bottom: 120px;
+
+				height: 170px;
+			}
+			#ukraine_correction_text {
+				position: absolute;
+				left: 801px;
+				bottom: 235px;
+
+				color: #DDDDDD;
+				font: 60px Calibri;
+			}
+			#vdv_correction_text {
+				position: absolute;
+				left: 20px;
+				bottom: 120px;
+
+				font: 80px Haettenschweiler;
+				font-style: italic;
+				color: #00CD00;
+			}
+			#vdv_image_pos {
+				position: absolute;
+				bottom: 10px;
+				left: 10px;
+
+				width: 50%;
+			}
+			#link_pos {
+				position: absolute;
+				top: 10px;
+				left: 550px;
+			}
+		</style>
+	</head>
+	<body>
+		<div style="position: absolute; left: 150px; bottom: 200px">
+			<audio controls="">
+				<source src="music/music.mp3" type="audio/mp3">
+			</audio>
+		</div>
+
+		<div class="head_div">
+			<img src="images/crescent.png" class="head_div_child moon_img">
+			<div class="head_div_child new_year_text"> новым </div>
+		</div>
+		<img src="images/birthday.png" id="birthday_image_pos">
+		<img src="images/fireworks.gif" id="fireworks_image_pos">
+		<img src="images/happy_easter.png" id="happy_easter_pos">
+		<img src="images/vdv_guys.png" id="vdv_guys_pos">
+		<img src="images/easter_eggs.png" id="easter_eggs_pos">
+		<img src="images/23.png" id="img_23_pos">
+		<img src="images/beer.jpg" id="beer_pos">
+		<img src="images/victory.png" id="victory_pos">
+		<div id="valentine_text_div"> Валентина </div>
+		<div id="ukraine_text_div"> за </div>
+		<img src="images/ukraine.jpg" id="ukraine_pos">
+		<div id="ukraine_correction_text"> ь </div>
+		<div id="vdv_correction_text"> Счастливых </div>
+		<img src="images/vdv_notion.jpg" id="vdv_image_pos">
+
+		<div id="link_pos"> <a href="Lab8Task1.html" style="color: white; font: 20px;"> Если сильно надоело </a> </div>
+	</body>
+</html>

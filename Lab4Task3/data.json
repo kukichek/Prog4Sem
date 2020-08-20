@@ -1,0 +1,26 @@
+{"Toys": [
+  {
+    "type": "Puppets",
+    "amount": 28
+  },
+  {
+    "type": "Puzzles",
+    "amount": 29
+  },
+  {
+    "type": "Balls",
+    "amount": 45
+  },
+  {
+    "type": "Board Games",
+    "amount": 15
+  },
+  {
+    "type": "Teddy's",
+    "amount": 19
+  },
+  {
+    "type": "Dolls",
+    "amount": 24
+  }
+]}
